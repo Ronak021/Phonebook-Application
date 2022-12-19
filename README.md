@@ -1,2 +1,2 @@
 # Phonebook-Application
-Phonebook Application using C language and Concepts of file Handling.
+Phonebook Application is the contact management system using C language and concepts of file Handling.
